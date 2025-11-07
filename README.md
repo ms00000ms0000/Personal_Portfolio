@@ -39,7 +39,7 @@ This website showcases my **projects**, **skills**, and **contact details**, ser
 
 ## 📁 Project Structure
 
-```📂 Portfolio/
+📂 Portfolio/
 ├── index.html # Main portfolio webpage
 ├── 1744293590862.jpg # Profile photo
 ├── Resume_Mayank.pdf # Downloadable resume
