@@ -72,7 +72,7 @@ This website showcases my **projects**, **skills**, and **contact details**, ser
 
 To run this project locally:
 
-```bash
+bash
 # 1. Clone the repository
 git clone https://github.com/ms00000ms0000/Portfolio.git
 
@@ -110,8 +110,8 @@ Heart Disease Prediction	ML model to detect heart disease
 
 🧾 License
 
-This project is open source and available under the MIT License
-.
+This project is open source and available under the MIT License.
+
 
 ⭐ If you like this project, don't forget to give it a star!
 Your support helps improve and inspire more open-source work. 💙
