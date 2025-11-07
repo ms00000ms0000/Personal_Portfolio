@@ -44,8 +44,8 @@ This website showcases my **projects**, **skills**, and **contact details**, ser
 ├── 1744293590862.jpg # Profile photo
 ├── Resume_Mayank.pdf # Downloadable resume
 ├── README.md # This file
-└── assets/ # (optional) images, css, js folders ```
- 
+└── assets/ # (optional) images, css, js folders 
+
 
 ## 🧩 Sections Overview
 
