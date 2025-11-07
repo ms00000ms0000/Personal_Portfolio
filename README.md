@@ -40,14 +40,12 @@ This website showcases my **projects**, **skills**, and **contact details**, ser
 ## 📁 Project Structure
 
 📂 Portfolio/
-├── index.html
+├── index.html # Main portfolio webpage
 ├── 1744293590862.jpg # Profile photo
 ├── Resume_Mayank.pdf # Downloadable resume
 ├── README.md # This file
 └── assets/ # (optional) images, css, js folders
-
-
----
+ 
 
 ## 🧩 Sections Overview
 
@@ -59,7 +57,7 @@ This website showcases my **projects**, **skills**, and **contact details**, ser
 6. **Contact Section** – Email and social media icons  
 7. **Footer** – Copyright  
 
----
+
 
 ## 📷 Preview
 
