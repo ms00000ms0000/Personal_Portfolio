@@ -112,9 +112,11 @@ To run this project locally:
  | Platform | Details |
 |-----------|----------|
 | 📧 **Email** | [businesswallah01@gmail.com](mailto:businesswallah01@gmail.com) |
-| 💼 **LinkedIn** | (https://linkedin.com/in/mayank-srivastava-947550320) |
+| 💼 **LinkedIn** | https://linkedin.com/in/mayank-srivastava-947550320 |
 | 🐙 **GitHub** | [@ms00000ms0000](https://github.com/ms00000ms0000) |
 | 📸 **Instagram** | [@ms0000ms0000](https://www.instagram.com/ms0000ms0000) |
 
 ---
 
+⭐ If you like this project, don’t forget to give it a star!
+Your support helps improve and inspire more open-source work 💙
