@@ -78,20 +78,20 @@ It’s designed to highlight your technical expertise, project experience, and o
 To run this project locally:  
 
 
-# 1. Clone the repository
+### 1. Clone the repository
    ```bash
    git clone https://github.com/ms00000ms0000/Portfolio.git
    ```
 
-# 2. Open the folder
+### 2. Open the folder
    ```bash
    cd Portfolio
    ```
 
-# 3. Open in browser
-   ```bash
-   Open index.html
-   ```
+### 3. Open in browser
+    
+  * Open index.html
+    
 ---
 
 ## 🌟 Projects Highlighted
@@ -112,7 +112,7 @@ To run this project locally:
  | Platform | Details |
 |-----------|----------|
 | 📧 **Email** | [businesswallah01@gmail.com](mailto:businesswallah01@gmail.com) |
-| 💼 **LinkedIn** | [Mayank Srivastava](https://www.linkedin.com/in/mayank-srivastava) |
+| 💼 **LinkedIn** | [Mayank Srivastava] (https://linkedin.com/in/mayank-srivastava-947550320) |
 | 🐙 **GitHub** | [@ms00000ms0000](https://github.com/ms00000ms0000) |
 | 📸 **Instagram** | [@ms0000ms0000](https://www.instagram.com/ms0000ms0000) |
 
