@@ -45,11 +45,11 @@ It’s designed to highlight your technical expertise, project experience, and o
 ```
 
 📂 Portfolio/
-├── index.html # Main portfolio webpage
-├── 1744293590862.jpg # Profile photo
-├── Resume_Mayank.pdf # Downloadable resume
-├── README.md # Project documentation
-└── assets/ # (Optional) images, CSS, JS folders
+├── index.html                                                     # Main portfolio webpage
+├── 1744293590862.jpg                                              # Profile photo
+├── Resume_Mayank.pdf                                              # Downloadable resume
+├── README.md                                                      # Project documentation
+└── assets/                                                        # (Optional) images, CSS, JS folders
 
 ```
 ---
