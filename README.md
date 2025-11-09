@@ -1,117 +1,122 @@
-# 🌐 Personal Portfolio Website
+# 🌐 Personal Portfolio Website  
 
+## 🚀 Overview  
 A **modern, responsive, and animated personal portfolio website** built using **HTML**, **Tailwind CSS**, and **AOS (Animate on Scroll)**.  
-This website showcases my **projects**, **skills**, and **contact details**, serving as an interactive digital resume and project hub.
+This portfolio acts as an **interactive digital resume** — showcasing **projects**, **skills**, and **contact details** in a clean and visually appealing format.  
+
+It’s designed to highlight your technical expertise, project experience, and online presence — all in one elegant website.
 
 ---
 
-## 🧑‍💻 Developer
+## 🧑‍💻 Developer  
 
 **👋 Hi, I'm [Mayank Srivastava](https://github.com/ms00000ms0000)**  
-🎓 B.Tech (CSE) Student at *Shri Ramswaroop Memorial University*  
-💡 Passionate about **Android Development (Kotlin)**, **Machine Learning**, and **Web Technologies**.  
+🎓 *B.Tech (CSE)* Student at **Shri Ramswaroop Memorial University**  
+💡 Passionate about **Android Development (Kotlin)**, **Machine Learning**, and **Web Technologies**  
 
 ---
 
-## 🚀 Features
+## 🚀 Features  
 
-✅ Clean & minimal UI using **Tailwind CSS**  
-✅ Responsive design for all screen sizes  
-✅ Smooth scrolling and section animations  
-✅ Project showcase with GitHub links  
-✅ Downloadable resume section  
-✅ Integrated contact & social media links  
-✅ Hosted profile image and simple navigation  
+✅ **Modern UI** built using Tailwind CSS  
+✅ **Fully Responsive** across all devices (desktop, tablet, mobile)  
+✅ **Smooth scrolling & animations** using AOS library  
+✅ **Project Showcase** with GitHub links  
+✅ **Downloadable Resume** section  
+✅ **Social & Contact Links** integrated  
+✅ **Optimized performance** for quick loading and clean transitions  
 
+---
 
-
- ## 🛠️ Technologies Used
+## 🛠️ Technologies Used  
 
 | Technology | Purpose |
 |-------------|----------|
 | **HTML5** | Page structure |
 | **Tailwind CSS** | Styling and responsiveness |
-| **Font Awesome** | Icons |
-| **AOS (Animate on Scroll)** | Scroll animations |
-| **JavaScript (minimal)** | AOS initialization |
+| **Font Awesome** | Icons and symbols |
+| **AOS (Animate on Scroll)** | Section animations |
+| **JavaScript (minimal)** | AOS initialization and interactivity |
 
 ---
 
-## 📁 Project Structure
+## 📁 Repository Structure  
+
+```
 
 📂 Portfolio/
 ├── index.html # Main portfolio webpage
 ├── 1744293590862.jpg # Profile photo
 ├── Resume_Mayank.pdf # Downloadable resume
-├── README.md # This file
-└── assets/ # (optional) images, css, js folders 
+├── README.md # Project documentation
+└── assets/ # (Optional) images, CSS, JS folders
+
+```
+---
 
 
-## 🧩 Sections Overview
+---
+
+## 🧩 Sections Overview  
 
 1. **Navbar** – Quick navigation (About, Projects, Contact)  
 2. **Hero Section** – Profile image, name, role, and “Hire Me” button  
-3. **About Section** – Personal background and skills overview  
+3. **About Section** – Personal background and skill overview  
 4. **Projects Section** – Display of ML and Android projects with GitHub links  
-5. **Resume Download** – Button to download your resume  
+5. **Resume Download** – Direct download link for your resume  
 6. **Contact Section** – Email and social media icons  
-7. **Footer** – Copyright  
+7. **Footer** – Copyright and external links  
+
+---
+
+## 📷 Preview  
+
+ https://meetms.netlify.app/
+
+---
+
+## 🧰 Installation & Setup  
+
+To run this project locally:  
 
 
-
-## 📷 Preview
-
-### 🖥️ Desktop View
-![Portfolio Preview](https://user-images.githubusercontent.com/https://github.com/ms00000ms0000/Personal_Portfolio/blob/main/1744293590862.jpg/portfolio-desktop.png)
-
-### 📱 Mobile View
-![Portfolio Preview Mobile](https://user-images.githubusercontent.com/https://github.com/ms00000ms0000/Personal_Portfolio/blob/main/1744293590862.jpg/portfolio-mobile.png)
-
- 
-## 🧰 Installation & Setup
-
-To run this project locally:
-
-bash
 # 1. Clone the repository
-git clone https://github.com/ms00000ms0000/Portfolio.git
+   ```bash
+   git clone https://github.com/ms00000ms0000/Portfolio.git
+   ```
 
 # 2. Open the folder
-cd Portfolio
+   ```bash
+   cd Portfolio
+   ```
 
 # 3. Open in browser
-Open index.html
+   ```bash
+   Open index.html
+   ```
+---
 
- ## 🌟 **Projects Highlighted**
+## 🌟 Projects Highlighted
 
-Here are a few projects linked in this portfolio:
+  | Project                         | Description                                   | Repository |
+| -------------------------------- | --------------------------------------------- | ----------- |
+| **Kaushal XChange App**          | Kotlin-based skill exchange platform          | https://github.com/ms00000ms0000/KaushalXchange |
+| **Rainfall Prediction**          | Predicts rainfall using ML                    | https://github.com/ms00000ms0000/ML-Projects-Rainfall-Prediction- |
+| **Movie Recommendation System**  | Suggests movies using user preferences        | https://github.com/ms00000ms0000/ML-Projects-Movie-Recommendation-System|
+| **Weather Prediction using ANN** | Deep learning model for accurate weather forecasting | https://github.com/ms00000ms0000/DL_Project_Weather_Prediction_System |
 
-Project	Description	Repository
+(And many more available in the “Projects” section of the portfolio!)
 
-College Alert App	Android app for student alerts	
+---
 
-Rainfall Prediction	Predict rainfall using ML	
+## 📬 Contact Me
 
-Movie Recommendation System	Suggests movies using user data	
+ | Platform | Details |
+|-----------|----------|
+| 📧 **Email** | [businesswallah01@gmail.com](mailto:businesswallah01@gmail.com) |
+| 💼 **LinkedIn** | [Mayank Srivastava](https://www.linkedin.com/in/mayank-srivastava) |
+| 🐙 **GitHub** | [@ms00000ms0000](https://github.com/ms00000ms0000) |
+| 📸 **Instagram** | [@ms0000ms0000](https://www.instagram.com/ms0000ms0000) |
 
-Heart Disease Prediction	ML model to detect heart disease
+---
 
-(and many more in the Projects section!)
-
-📬 Contact Me
-
-📧 Email: businesswallah01@gmail.com
-
-💼 LinkedIn: Mayank Srivastava
-
-🐙 GitHub: @ms00000ms0000
-
-📸 Instagram: @ms0000ms0000
-
-🧾 License
-
-This project is open source and available under the MIT License.
-
-
-⭐ If you like this project, don't forget to give it a star!
-Your support helps improve and inspire more open-source work. 💙
