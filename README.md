@@ -18,13 +18,13 @@ It’s designed to highlight your technical expertise, project experience, and o
 
 ## 🚀 Features  
 
-✅ **Modern UI** built using Tailwind CSS  
-✅ **Fully Responsive** across all devices (desktop, tablet, mobile)  
-✅ **Smooth scrolling & animations** using AOS library  
-✅ **Project Showcase** with GitHub links  
-✅ **Downloadable Resume** section  
-✅ **Social & Contact Links** integrated  
-✅ **Optimized performance** for quick loading and clean transitions  
+* **Modern UI** built using Tailwind CSS  
+* **Fully Responsive** across all devices (desktop, tablet, mobile)  
+* **Smooth scrolling & animations** using AOS library  
+* **Project Showcase** with GitHub links  
+* **Downloadable Resume** section  
+* **Social & Contact Links** integrated  
+* **Optimized performance** for quick loading and clean transitions  
 
 ---
 
@@ -112,7 +112,7 @@ To run this project locally:
  | Platform | Details |
 |-----------|----------|
 | 📧 **Email** | [businesswallah01@gmail.com](mailto:businesswallah01@gmail.com) |
-| 💼 **LinkedIn** | [Mayank Srivastava] (https://linkedin.com/in/mayank-srivastava-947550320) |
+| 💼 **LinkedIn** | (https://linkedin.com/in/mayank-srivastava-947550320) |
 | 🐙 **GitHub** | [@ms00000ms0000](https://github.com/ms00000ms0000) |
 | 📸 **Instagram** | [@ms0000ms0000](https://www.instagram.com/ms0000ms0000) |
 
