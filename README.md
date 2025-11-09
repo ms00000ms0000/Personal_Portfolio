@@ -12,7 +12,7 @@ It’s designed to highlight your technical expertise, project experience, and o
 
 **👋 Hi, I'm [Mayank Srivastava](https://github.com/ms00000ms0000)**  
 🎓 *B.Tech (CSE)* Student at **Shri Ramswaroop Memorial University**  
-💡 Passionate about **Android Development (Kotlin)**, **Machine Learning**, and **Web Technologies**  
+💡 Passionate about **Android Development (Kotlin)**, **Machine Learning**, **Deep Learning** and **Web Technologies**  
 
 ---
 
@@ -54,8 +54,6 @@ It’s designed to highlight your technical expertise, project experience, and o
 ```
 ---
 
-
----
 
 ## 🧩 Sections Overview  
 
