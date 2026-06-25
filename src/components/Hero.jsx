@@ -5,7 +5,7 @@ import AISphere from "../canvas/AISphere";
 
 function Hero() {
   return (
-    <section className="min-h-screen flex items-center justify-center px-6 pt-24 md:pt-0">
+    <section className="min-h-screen flex items-center justify-center px-4 md:px-6">
       <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-12 items-center">
 
         {/* Left Content */}
@@ -18,7 +18,7 @@ function Hero() {
             Hello, I'm
           </p>
 
-          <h1 className="text-6xl md:text-8xl font-extrabold mb-4">
+          <h1 className="text-4xl sm:text-5xl md:text-8xl font-extrabold mb-4 leading-tight">
             {personalInfo.name}
           </h1>
 
