@@ -158,8 +158,8 @@ export const achievements = [
   },
 
   {
-    number: "100%",
-    label: "Dedication",
+    number: "10+",
+    label: "Technologies Learned",
   },
 ];
 export const socialLinks = {
