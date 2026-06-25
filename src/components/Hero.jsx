@@ -5,24 +5,25 @@ import AISphere from "../canvas/AISphere";
 
 function Hero() {
   return (
-    <section className="min-h-screen flex items-center justify-center px-4 md:px-6">
-      <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-12 items-center">
+    <section className="min-h-screen flex items-center justify-center px-6 pt-28 md:pt-20">
+      <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-12 items-center w-full">
 
         {/* Left Content */}
         <motion.div
           initial={{ opacity: 0, x: -80 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 1 }}
+          className="overflow-hidden"
         >
-          <p className="text-cyan-400 text-xl mb-4">
+          <p className="text-cyan-400 text-lg md:text-xl mb-4">
             Hello, I'm
           </p>
 
-          <h1 className="text-4xl sm:text-5xl md:text-8xl font-extrabold mb-4 leading-tight">
+          <h1 className="text-5xl sm:text-6xl md:text-8xl font-extrabold mb-4 leading-tight break-words">
             {personalInfo.name}
           </h1>
 
-          <h2 className="text-2xl md:text-3xl gradient-text mb-6">
+          <h2 className="text-xl sm:text-2xl md:text-3xl gradient-text mb-6">
             <Typewriter
               words={personalInfo.roles}
               loop={0}
@@ -40,7 +41,6 @@ function Hero() {
           </p>
 
           <div className="flex gap-4 flex-wrap">
-
             <a
               href="/resume.pdf"
               download
@@ -57,7 +57,6 @@ function Hero() {
             >
               GitHub
             </a>
-
           </div>
         </motion.div>
 
@@ -68,7 +67,7 @@ function Hero() {
           transition={{ duration: 1 }}
           className="flex justify-center"
         >
-          <div className="relative w-[400px] h-[450px]">
+          <div className="relative w-[320px] h-[380px] md:w-[400px] md:h-[450px]">
 
             <div className="absolute inset-0">
               <AISphere />
@@ -83,8 +82,10 @@ function Hero() {
                 top-1/2
                 -translate-x-1/2
                 -translate-y-1/2
-                w-[280px]
-                h-[380px]
+                w-[240px]
+                h-[320px]
+                md:w-[280px]
+                md:h-[380px]
                 object-cover
                 rounded-3xl
                 border
