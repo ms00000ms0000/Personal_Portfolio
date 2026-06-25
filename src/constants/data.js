@@ -33,6 +33,7 @@ export const skills = [
   "Artificial Intelligence",
   "NLP",
   "LLM",
+  "FAISS",
   "RAG",
   "LangChain",
   "EDA",
