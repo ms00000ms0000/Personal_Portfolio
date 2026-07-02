@@ -6,7 +6,7 @@
 
 ### AI  • Machine Learning • Deep Learning • Data Analytics
 
-A modern, responsive and interactive AI Portfolio built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and **Three.js**, showcasing projects, technical skills, certifications, achievements and professional experience with smooth animations and an elegant UI.
+A modern, responsive and interactive Personal Portfolio built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and **Three.js**, showcasing projects, technical skills, certifications, achievements and professional experience with smooth animations and an elegant UI.
 
 <br>
 
