@@ -378,7 +378,6 @@ The portfolio is fully optimized for multiple screen sizes.
 - Interactive Project Timeline
 
 ---
----
 
 # 📸 Project Preview
 
@@ -411,7 +410,11 @@ The portfolio is fully optimized for multiple screen sizes.
 ## 📱 Mobile Responsive View
 
 <p align="center">
-<img width="1080" height="2148" alt="port_mobile" src="https://github.com/user-attachments/assets/ca849090-0708-4efe-9c25-dba28ebd4e22" >
+  <img
+    src="https://github.com/user-attachments/assets/ca849090-0708-4efe-9c25-dba28ebd4e22"
+    alt="Portfolio Mobile View"
+    width="320"
+  />
 </p>
 
 ---
