@@ -70,6 +70,15 @@ export const experiences = [
   },
 ];
 export const projects = [
+
+
+{
+    title: "Enterprise Multi-Document RAG Assistant",
+    description:
+      "Enterprise-level RAG assistant for multi-document question answering.",
+    github:
+       "https://github.com/ms00000ms0000/enterprise-multi-document-rag",
+  },  
   {
     title: "Rainfall Prediction System",
     description:
@@ -133,6 +142,15 @@ export const projects = [
     github:
       "https://github.com/ms00000ms0000/Power_BI_Indian_E-Commerce_Revenue_Dashboard",
   },
+
+  {
+    title: "Kaushal XChange",
+    description:
+      "Skill Exchange Android Application built using Kotlin in Android Studio.",
+    github:
+      "https://github.com/ms00000ms0000/KaushalXchange",
+  },
+
 ];
 
 export const certifications = [
