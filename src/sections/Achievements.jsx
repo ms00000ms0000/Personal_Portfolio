@@ -9,15 +9,14 @@ function Achievements() {
 
         <h2
           className="
-            text-4xl
-            sm:text-5xl
+            text-5xl
             md:text-6xl
-            text-center
             gradient-text
             font-bold
+            text-center
             mb-16
             leading-tight
-            break-words
+            px-3
           "
         >
           Achievements
