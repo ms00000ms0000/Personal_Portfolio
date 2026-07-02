@@ -4,7 +4,7 @@
 
 # Mayank Srivastava
 
-### AI Engineer • Machine Learning • Deep Learning • Data Analytics
+### AI  • Machine Learning • Deep Learning • Data Analytics
 
 A modern, responsive and interactive AI Portfolio built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and **Three.js**, showcasing projects, technical skills, certifications, achievements and professional experience with smooth animations and an elegant UI.
 
@@ -576,37 +576,7 @@ git push origin feature/NewFeature
 
 ## Mayank Srivastava
 
-AI Engineer | Machine Learning | Deep Learning | Data Analytics
-
----
-
-### 📧 Email
-
-msrivastava194@gmail.com
-
----
-
-### 🌐 Portfolio
-
-https://meetms.netlify.app/
-
----
-
-### 💼 LinkedIn
-
-https://www.linkedin.com/in/ms8960/
-
----
-
-### 💻 GitHub
-
-https://github.com/ms00000ms0000
-
----
-
-### 📸 Instagram
-
-https://www.instagram.com/ms0000ms0000
+AI | Machine Learning | Deep Learning | Data Analytics
 
 ---
 
