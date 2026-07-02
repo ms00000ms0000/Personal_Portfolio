@@ -3,15 +3,27 @@ import { motion } from "framer-motion";
 
 function Achievements() {
   return (
-    <section className="py-20 px-6">
+    <section className="py-20 px-4 sm:px-6">
 
       <div className="max-w-7xl mx-auto">
 
-        <h2 className="text-5xl text-center gradient-text font-bold mb-16">
+        <h2
+          className="
+            text-4xl
+            sm:text-5xl
+            md:text-6xl
+            text-center
+            gradient-text
+            font-bold
+            mb-16
+            leading-tight
+            break-words
+          "
+        >
           Achievements
         </h2>
 
-        <div className="grid md:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
 
           {achievements.map((item, index) => (
             <motion.div
