@@ -6,18 +6,25 @@
 
 ### AI  • Machine Learning • Deep Learning • Data Analytics
 
-A modern, responsive and interactive AI Portfolio built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and **Three.js**, showcasing projects, technical skills, certifications, achievements and professional experience with smooth animations and an elegant UI.
-
-<br>
-
-[![Live Demo](https://img.shields.io/badge/Live-Portfolio-00E5FF?style=for-the-badge&logo=netlify&logoColor=white)](https://meetms.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ms00000ms0000/Personal_Portfolio)
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)]
-[![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white)]
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)]
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-Animation-FF0055?style=for-the-badge&logo=framer)]
-[![Three.js](https://img.shields.io/badge/Three.js-3D-black?style=for-the-badge&logo=three.js)]
-[![Netlify](https://img.shields.io/badge/Hosted_on-Netlify-00C7B7?style=for-the-badge&logo=netlify)]
+<a href="https://meetms.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Live-Portfolio-00E5FF?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/ms00000ms0000/Personal_Portfolio">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+&nbsp;
+<img src="https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-4-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/Framer_Motion-Animation-FF0055?style=for-the-badge&logo=framer">
+&nbsp;
+<img src="https://img.shields.io/badge/Three.js-3D-black?style=for-the-badge&logo=three.js">
+&nbsp;
+<img src="https://img.shields.io/badge/Hosted_on-Netlify-00C7B7?style=for-the-badge&logo=netlify">
 
 </div>
 
@@ -37,7 +44,7 @@ https://github.com/ms00000ms0000/Personal_Portfolio
 
 # 📖 Overview
 
-This project is a **next-generation AI Engineer Portfolio** designed to present technical expertise through a clean, interactive and visually engaging experience.
+This project is a **next-generation Personal Portfolio** designed to present technical expertise through a clean, interactive and visually engaging experience.
 
 Unlike traditional portfolio websites, this application combines modern frontend technologies with immersive animations to create a professional developer portfolio suitable for recruiters, hiring managers and technical interviews.
 
