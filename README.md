@@ -376,7 +376,7 @@ The portfolio is fully optimized for multiple screen sizes.
 ## 🖥 Desktop — Hero Section
 
 <p align="center">
-<img src="./screenshots/port_desktop_home.png" width="95%">
+<img width="1341" height="602" alt="port_desktop_home" src="https://github.com/user-attachments/assets/8d8cec6e-c353-48b4-b07d-228612e0147a" >
 </p>
 
 ---
@@ -384,7 +384,7 @@ The portfolio is fully optimized for multiple screen sizes.
 ## 🚀 Projects Showcase
 
 <p align="center">
-<img src="./screenshots/port_project.png" width="95%">
+<img width="1341" height="603" alt="port_project" src="https://github.com/user-attachments/assets/2bf5d8b1-ccd3-4750-b4f2-b002977dc154" >
 </p>
 
 ---
@@ -392,7 +392,7 @@ The portfolio is fully optimized for multiple screen sizes.
 ## 📩 Contact Section
 
 <p align="center">
-<img src="./screenshots/port_contact.png" width="95%">
+<img width="1334" height="526" alt="port_contact" src="https://github.com/user-attachments/assets/b92ea07c-fb27-439c-8b1d-86e663f12538" >
 </p>
 
 ---
@@ -400,10 +400,8 @@ The portfolio is fully optimized for multiple screen sizes.
 ## 📱 Mobile Responsive View
 
 <p align="center">
-<img src="./screenshots/port_mobile.jpeg" width="320">
+<img width="1080" height="2148" alt="port_mobile" src="https://github.com/user-attachments/assets/ca849090-0708-4efe-9c25-dba28ebd4e22" >
 </p>
-
-> **Note:** Create a folder named **screenshots** in the repository root and place all extracted images from `port_screenshot.zip` inside it using the filenames shown above.
 
 ---
 
