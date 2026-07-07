@@ -72,13 +72,23 @@ export const experiences = [
 export const projects = [
 
 
-{
-    title: "Enterprise Multi-Document RAG Assistant",
+ {
+    title: "HyperRAG",
     description:
       "Enterprise-level RAG assistant for multi-document question answering.",
     github:
        "https://github.com/ms00000ms0000/enterprise-multi-document-rag",
   },  
+
+  {
+    title: "AtmosIQ",
+    description:
+      "Intelligent weather prediction platform using SQL, ML, Neural Network, and SHAP.",
+    github:
+      "https://github.com/ms00000ms0000/AtmosIQ",
+  },
+
+
   {
     title: "Rainfall Prediction System",
     description:
@@ -87,14 +97,7 @@ export const projects = [
       "https://github.com/ms00000ms0000/Rainfall_Prediction_Webapp",
   },
 
-  {
-    title: "Weather Prediction System",
-    description:
-      "Deep Learning weather classification using ANN architecture.",
-    github:
-      "https://github.com/ms00000ms0000/DL_Project_Weather_Prediction_System",
-  },
-
+  
   {
     title: "Emotion Detection System",
     description:
@@ -103,13 +106,7 @@ export const projects = [
       "https://github.com/ms00000ms0000/DL_Project_Emotion_Detection_System_Using_MobileNetV2_Transfer_Learning",
   },
 
-  {
-    title: "Confidence Detection System",
-    description:
-      "Deep Learning based confidence level prediction system.",
-    github:
-      "https://github.com/ms00000ms0000/DL_Project_Confidence_Detection_System",
-  },
+  
 
   {
     title: "Customer Segmentation",
@@ -134,6 +131,15 @@ export const projects = [
     github:
       "https://github.com/ms00000ms0000/Business_Problem_Optimization_Using_Linear_Programming",
   },
+
+  {
+    title: "Weather Prediction System",
+    description:
+      "Deep Learning weather classification using ANN architecture.",
+    github:
+      "https://github.com/ms00000ms0000/DL_Project_Weather_Prediction_System",
+  },
+
 
   {
     title: "Power BI Dashboard",
