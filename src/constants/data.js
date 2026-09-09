@@ -9,7 +9,7 @@ export const personalInfo = {
     "Artificial Intelligence",
   ],
 
-  location: "Noida, Uttar Pradesh",
+  location: "Gurugram, Haryana, India",
 
   email: "msrivastava194@gmail.com",
 
@@ -17,7 +17,7 @@ export const personalInfo = {
 
   linkedin: "https://linkedin.com/in/ms8960",
 
-  resume: "/resume.pdf",
+  resume: "/Mayank_Srivastava_Resume.pdf",
 
   image: "/profile.png",
 };
@@ -120,7 +120,8 @@ export const projects = [
     title: "Spam Mail Prediction",
     description:
       "Machine Learning text classification system for spam detection.",
-    github:
+  
+      github:
       "https://github.com/ms00000ms0000/ML-Projects-Spam-Mail-Prediction",
   },
 
