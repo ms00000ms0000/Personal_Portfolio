@@ -10,7 +10,7 @@ A modern, responsive and interactive Personal Portfolio built with **React**, **
 
 <br>
 
-<a href="https://meetms.netlify.app/">
+<a href="https://work.meetmayank.com/">
 <img src="https://img.shields.io/badge/🌐_Live-Portfolio-00E5FF?style=for-the-badge">
 </a>
 &nbsp;
@@ -38,7 +38,7 @@ A modern, responsive and interactive Personal Portfolio built with **React**, **
 
 ### 🔗 Portfolio
 
-https://meetms.netlify.app/
+https://work.meetmayank.com/
 
 ### 💻 Repository
 
